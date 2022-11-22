@@ -4,7 +4,7 @@ autopep8==1.5.3
 bcrypt==3.1.7
 cffi==1.14.0
 Django==3.0.8
-Pillow==7.2.0
+Pillow==9.3.0
 pycodestyle==2.6.0
 pycparser==2.20
 pytz==2020.1
